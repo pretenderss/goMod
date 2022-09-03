@@ -1,4 +1,4 @@
-package goModTest
+package goMod
 
 
 func Add(x,y int ) int {
