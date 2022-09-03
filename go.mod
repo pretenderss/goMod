@@ -1,3 +1,3 @@
-module github.com/pretenderss/goModTest
+module github.com/pretenderss/goMod
 
 go 1.19
